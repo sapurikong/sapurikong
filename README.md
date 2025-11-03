@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 
+I'm an undergraduate student majoring in CS.
+(I majored in physics for four years though never graduated)
 
-<!--
-**sapurikong/sapurikong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm good at:
 
-Here are some ideas to get you started:
+Rust 🦀 (my favourite language, plenty of experience as a hobby, 3 months of internship experience.)
+C++ 🪄(my ex-favourite, plenty of experience as a hobby, one year of part-time work experience)
+Google-fu (always helping friends Google)
+resolving others' trouble (not good at resolving my own, unfortunately)
+I know the basics of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java (learnt at the university)
+HTML/CSS/JavaScript (unless involving "modern" toolchains)
+Vue3 (only 26 hours of learning, just for one coding test)
